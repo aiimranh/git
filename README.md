@@ -3,5 +3,5 @@
 
 <h1>Screenshot</h1>
 <p align="center">
-  <img src="Screenshot/workflow.png" width="640" alt="workflow screenshot">
+  <img src="Screenshot/workflow.png" width="800" alt="workflow screenshot">
 </p>
